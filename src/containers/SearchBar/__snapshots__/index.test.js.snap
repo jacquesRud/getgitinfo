@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar Render 1`] = `
+<div>
+  <input
+    class="form-control"
+  />
+</div>
+`;

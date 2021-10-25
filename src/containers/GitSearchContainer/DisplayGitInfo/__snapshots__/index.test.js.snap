@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayGitInfos Render 1`] = `
+<div>
+  No User Found
+</div>
+`;
+
+exports[`DisplayGitInfos Render Empty 1`] = `
+<div>
+  No User Found
+</div>
+`;
