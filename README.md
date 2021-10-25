@@ -1,2 +1,2 @@
-CheckBox Project By Jacques RUDLOFF Instructions : cd checkbox npm i npm start
+getGinInfo Project By Jacques RUDLOFF Instructions : cd checkbox npm i npm start
 
